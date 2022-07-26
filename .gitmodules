@@ -1,0 +1,6 @@
+[submodule "cbserver/demo"]
+	path = cbserver/demo
+	url = https://github.com/tobm55/demo.git
+[submodule "cbserver/fair-fairytale-nlp"]
+	path = cbserver/fair-fairytale-nlp
+	url = https://github.com/PauToroIsaza/fair-fairytale-nlp.git
